@@ -8,19 +8,22 @@ Https://github.com/alfathdirk/LineAlphatJs.git
 - sudo apt-get install nodejs (pc )
 - pkg/pip2 install nodejs perangkat lain
 - pip2 install nano
+- pip2 install vim
+- pip install thrif
 - git clone https://github.com/Jeckydkz/JpAlphatJs.git
 - cd JpAlphatJs
 - npm i
 - npm install
 - Isi mid kalian ya bro to main.js
 - token bot to bot.js
-- edit scrif 
 - npm start
 
 Nb:untuk edit bisa pakai vim atau nano 
-Via data termux untuk yg sudah root
+Via data storage(perangkat run ) untuk yg sudah root
 - Jika ingin menggunakan kembali
 Npm start
+
+- Untuk edit command bisa pm saya atau run eror
 - Jangan salah gunakan apalgi ratain room tetangga itu dosa
 - salam dari saya orang tamvan seline
 
