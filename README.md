@@ -6,10 +6,11 @@ Https://github.com/alfathdirk/LineAlphatJs.git
 - Cara run Lihat Dibawah bro
 
 - sudo apt-get install nodejs (pc )
-- pkg/pip2 install nodejs perangkat lain
+- pkg install nodejs ( smarfond ) 
+- pkg install git -y
 - pip2 install nano
 - pip2 install vim
-- pip install thrif
+- pip install thrift
 - git clone https://github.com/Jeckydkz/JpAlphatJs.git
 - cd JpAlphatJs
 - npm i
