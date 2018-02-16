@@ -1,21 +1,20 @@
-# alphat-fork
-Forked version of LineAlphat JS (Selfbot) #DEV #25/09/2017 #21PM
-<br>LineAlphat -> https://github.com/alfathdirk/LineAlphatJS<br><br>Status: Good
+###JpAlphatJs
 
-<hr>
+Update Version
+Https://github.com/alfathdirk/LineAlphatJs.git
 
-# require node >= v8.x.x
-check your nodejs version
-`node -v`
-[upgrade nodejs](https://google.com/)
+Cara run
+Apt-get install nodejs
+git clone https://github.com/Jeckydkz/JpAlphatJs.git
+Cd line JpAlphatJs
+npm i
+npm install
+Npm start
+
+Jika ingin menggunakan kembali
+Npm start
 
 
-How to ?
-------
-- `git clone https://github.com/GoogleX133/alphat-fork.git`
-- `cd alphat-fork && npm install`
-- `insert your admin mid in main.js`
-- `npm start`
 
 
 Still work :construction_worker:
