@@ -5,7 +5,7 @@ Https://github.com/alfathdirk/LineAlphatJs.git
 
 Cara run
 
-# pt-get install nodejs
+# apt-get install nodejs
 #  git clone https://github.com/Jeckydkz/JpAlphatJs.git
 # Cd line JpAlphatJs
 # npm i
