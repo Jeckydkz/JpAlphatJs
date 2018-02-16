@@ -5,12 +5,12 @@ Https://github.com/alfathdirk/LineAlphatJs.git
 
 Cara run
 
- # apt-get install nodejs
- # git clone https://github.com/Jeckydkz/JpAlphatJs.git
- # Cd line JpAlphatJs
- # npm i
- # npm install
- # Npm start
+/ # apt-get install nodejs
+/ # git clone https://github.com/Jeckydkz/JpAlphatJs.git
+/ # Cd line JpAlphatJs
+/ # npm i
+/ # npm install
+/ # Npm start
 
 Jika ingin menggunakan kembali
 Npm start
@@ -18,22 +18,11 @@ Npm start
 
 
 
-Still work :construction_worker:
+
 ----
-**CHANGELOG**
-- Fix Chat Spam When Bot Started (Because chat session)
+### Me
+line.me/ti/p/~dekradakz
 
-**TO - DO**
-- Broadcast message to all contact
+Team Dkz Protection
 
-CMD / KEYWORD
-------
-**type !key for the keyword**
-
-Author
-------
 [@alfathdirk](https://instagram.com/alfathdirk)
-
-Me
-------
-[@GoogleX](https://fb.me/m.rakha.f)
